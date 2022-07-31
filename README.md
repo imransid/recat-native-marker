@@ -2,7 +2,7 @@
 
 
 
--> ##how to check if Marker is in the region displayed on the screen in react native maps?
+## how to check if Marker is in the region displayed on the screen in react native maps?
 ====>
 ===>
 ==>
