@@ -1,4 +1,4 @@
-#react-native-mao
+#react-native-map
 
 
 
